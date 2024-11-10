@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-pancho",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Francisco Redondo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mercadopago": "^2.0.15",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7"
+  }
+}

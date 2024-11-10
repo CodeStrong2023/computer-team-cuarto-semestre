@@ -1,0 +1,134 @@
+*{
+    background-color: white,
+}
+
+body{
+    font-family:monospace;
+    font-weight:300;
+}
+
+/*navbar*/
+.navbar {
+    background-color: #1c1c1e;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 70px;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: monospace;
+}
+.navbar a:hover {
+    background-color: #1c1c1e;
+    color: white;
+}
+
+
+/*footer*/
+
+
+/*Redes*/
+
+
+.imagen {
+    border-radius: 50% ;
+    width: 300px;
+    height: 300px;
+}
+
+.redes {
+    text-align: center;
+    padding: 100px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen-redes {
+    padding: 15px 15px;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    margin-top: 20px;
+    color: white;
+}
+
+p {
+    line-height: 1.6;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e7f3fe;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#parrafo {
+    position: relative;
+    top: 70vh;
+}
+
+#regis {
+    position: relative;
+    top: 10vh;
+}
+
+.img-form{
+    position: relative;
+    top: 15vh;
+    width: 10px;
+    height: 10px;
+    right: 100vh;
+}
+
+.form-control, btn{
+    min-height: 3125res;
+    line-height: initial;
+
+}
+.content{
+    margin-top: 60px;   
+}
+
+footer {
+    position: absolute;
+     top: 129vh;
+    width: calc(100%);
+}
+
+#footer-2 {
+    margin-left: 3vh;
+}
+
+#barra{
+    color: white;
+}
