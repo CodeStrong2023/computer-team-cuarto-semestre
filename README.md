@@ -26,7 +26,7 @@ Metodo Scrum:
 Lenguajes y tecnologias utilizados:
 <div align="center">
   <br>
-  <!-- Python --> <img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="HTML">
+  <!-- Python --> <img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=HTML&logoColor=orange" alt="HTML">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Java -->  <img src="https://img.shields.io/badge/CSS-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396" alt="CSS">
   <!-- GIT --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
