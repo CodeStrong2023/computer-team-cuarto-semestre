@@ -34,5 +34,6 @@ Lenguajes y tecnologias utilizados:
   <!-- GitHub --> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <!-- NodeJS --> <img src="https://img.shields.io/badge/NODEJS-77a345?style=for-the-badge&logo=HTML&logoColor=green" alt="NODEJS">
   <!-- Express --> <img src="https://img.shields.io/badge/Express-F4F4F4?style=for-the-badge&logo=HTML&logoColor=white" alt="Express">
+  <!-- MYSQL --> <img src="https://img.shields.io/badge/MYSQL-007ACC?style=for-the-badge&logo=git&logoColor=white" alt="MYSQL">
   <br>
 </div>
